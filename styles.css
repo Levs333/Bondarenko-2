@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(97, 0, 0);
+    padding: 30px;
+}
+
+header a {
+    color: rgb(184, 12, 12);
+    background-color: rgb(6, 78, 34);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgba(255, 0, 0, 0.425);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 20px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 10px;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+p img {
+    height: 250px;
+    width: 400px;
+}
+
+footer {
+    background-color: rgb(6, 78, 34);
+    padding: 10px;
+}
+
+footer p {
+    background-color:rgb(6, 78, 34);
+    padding: 5px;
+}
+
+.knopka{
+    background-color: rgb(6, 78, 34);
+    border: 1px solid rgba(255, 0, 0, 0.425);
+}
+
+
+
+body{
+    background-color: rgb(161, 35, 35);
+}
+
+.tri{
+    background-color: rgb(97, 0, 0);
+    font-size: 20px;
+}
